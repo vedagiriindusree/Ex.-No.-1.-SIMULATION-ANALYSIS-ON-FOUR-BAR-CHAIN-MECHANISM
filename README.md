@@ -53,7 +53,9 @@
 
 
 ## Output:
-
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149366776/44e997a9-3fc1-4d7d-9910-bccfea4c7676)
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149366776/a6fc7c98-3221-459a-a338-d15ab3b6df9c)
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149366776/47ee7085-1131-4376-a434-e5396265aa96)
 
 ### Name:
 ### Register Number: 
